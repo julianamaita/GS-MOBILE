@@ -1,4 +1,4 @@
-# GS-MOBILE - GLOBAL SOLUTION 2025
+# BOLT -MOBILE - GLOBAL SOLUTION 2025
 
 O projeto extraído é uma aplicação escrita em TypeScript usando o ecossistema React Native/Expo, estruturada com componentes modulares para interface, formulários e navegação por abas. Abaixo está um modelo de `README.md` que você pode usar e adaptar conforme desejar:
 
